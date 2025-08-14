@@ -1,0 +1,25 @@
+{
+  "name": "niksg",
+  "authors": [
+    "The Nikrangra <nikrangsachsangma@gmail.com>"
+  ],
+  "description": "Dombe Level Marketing",
+  "main": "index.php",
+  "keywords": [
+    "erp"
+  ],
+  "license": "Closed Source",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "admin-lte": "^2.4.8",
+    "angular": "^1.7.5",
+    "angular-cookies": "^1.7.5",
+    "angular-ui-router": "^1.0.20",
+    "js-cookie": "^2.2.0",
+    "chart.js": "^1.0"
+  },
+  "devDependencies": {
+    "nikrangsachsangma-maker-improved": "https://github.com/nikrangsachsangma-maker"
+  }
+}
